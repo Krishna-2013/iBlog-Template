@@ -3,8 +3,8 @@
 A responsive blog website template built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots
-<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/61a6ff92-9d94-48ac-bb18-dcbf6da4bab3" />
-<img width="1919" height="811" alt="image" src="https://github.com/user-attachments/assets/951ffcc1-1b5e-4157-a0bf-110ada9aeb0c" />
+<img width="1917" height="860" alt="Screenshot 2026-03-24 163934" src="https://github.com/user-attachments/assets/70863963-70f0-4667-8376-37ad10382264" />
+<img width="1918" height="805" alt="Screenshot 2026-03-24 164509" src="https://github.com/user-attachments/assets/c8f69a2f-b79a-4e24-9458-38fb522e4f6d" />
 
 ## 🚀 Live Demo
 [View Live Site](#)  
