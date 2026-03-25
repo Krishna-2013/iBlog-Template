@@ -67,3 +67,7 @@ Want me to upgrade this into a **high-level README that actually stands out (lik
 **Krishna**  
 - GitHub: https://github.com/Krishna-2013  
 - Email: anhsirksettings@gmail.com
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
