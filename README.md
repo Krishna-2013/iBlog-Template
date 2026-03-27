@@ -7,8 +7,8 @@ A responsive blog website template built using HTML, CSS, and JavaScript.
 <img width="1918" height="805" alt="Screenshot 2026-03-24 164509" src="https://github.com/user-attachments/assets/c8f69a2f-b79a-4e24-9458-38fb522e4f6d" />
 
 ## 🚀 Live Demo
-[View Live Site](#)  
-<!-- Replace # with your GitHub Pages link -->
+
+https://krishna-2013.github.io/iBlog-Template/
 
 ## 📌 Features
 - Responsive design (mobile, tablet, desktop)
